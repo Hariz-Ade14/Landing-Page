@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd5dde45.css",
+    "main.js": "/static/js/main.758b76bf.js",
+    "static/media/charles-gaudreault-xXofYCc3hqc-unsplash.jpg": "/static/media/charles-gaudreault-xXofYCc3hqc-unsplash.e8c4dedc63b7a7150496.jpg",
+    "static/media/gordon-cowie-ohQiBoCqViM-unsplash.jpg": "/static/media/gordon-cowie-ohQiBoCqViM-unsplash.8b2453a5f0a44899031c.jpg",
+    "static/media/meagan-stone-kC5KL_iUpL4-unsplash.jpg": "/static/media/meagan-stone-kC5KL_iUpL4-unsplash.37b9ba5f3b0d583b13b6.jpg",
+    "static/media/andrew-valdivia-AB7TcT_GVU0-unsplash.jpg": "/static/media/andrew-valdivia-AB7TcT_GVU0-unsplash.c0177dbcd7a4d50c1e07.jpg",
+    "static/media/rachel-moore-zfPEja1D0YA-unsplash.jpg": "/static/media/rachel-moore-zfPEja1D0YA-unsplash.7aa5a29930ef1789a42f.jpg",
+    "static/media/gordon-cowie-7oPvdWF9gi0-unsplash.jpg": "/static/media/gordon-cowie-7oPvdWF9gi0-unsplash.b400929a4ed76807baa2.jpg",
+    "static/media/hayley-kim-studios-eot-ka5dM7Q-unsplash.jpg": "/static/media/hayley-kim-studios-eot-ka5dM7Q-unsplash.c5ed7a2fbcd4a3e94c85.jpg",
+    "static/media/rachel-moore-vCOd2HJ97AI-unsplash.jpg": "/static/media/rachel-moore-vCOd2HJ97AI-unsplash.a9ba218e71190efc5784.jpg",
+    "static/media/brett-jordan-U2q73PfHFpM-unsplash.jpg": "/static/media/brett-jordan-U2q73PfHFpM-unsplash.7c0b85fe3921d7d2eba7.jpg",
+    "static/media/meagan-stone-r951FqxHTao-unsplash.jpg": "/static/media/meagan-stone-r951FqxHTao-unsplash.421f2a4a5acfca3e1afa.jpg",
+    "static/media/samuel-girven-RrCvrrYtlqQ-unsplash.jpg": "/static/media/samuel-girven-RrCvrrYtlqQ-unsplash.4305a9e8a4df9239250c.jpg",
+    "static/media/april-laugh-YecfeHnwib8-unsplash.jpg": "/static/media/april-laugh-YecfeHnwib8-unsplash.2579572d12450eaebf8d.jpg",
+    "static/media/sushil-ghimire-DC5akQJyH4I-unsplash.jpg": "/static/media/sushil-ghimire-DC5akQJyH4I-unsplash.90ce41c6daf17b186013.jpg",
+    "static/media/sushil-ghimire-5UbIqV58CW8-unsplash.jpg": "/static/media/sushil-ghimire-5UbIqV58CW8-unsplash.95a4be6754d7e31f4108.jpg",
+    "static/media/anastase-maragos-9dzWZQWZMdE-unsplash.jpg": "/static/media/anastase-maragos-9dzWZQWZMdE-unsplash.e066fe2d95c7706464df.jpg",
+    "static/media/luke-aguaita-Nm5yy2sbgB8-unsplash.jpg": "/static/media/luke-aguaita-Nm5yy2sbgB8-unsplash.529f0ab1398ae0f348ac.jpg",
+    "static/media/jogging.jpg": "/static/media/jogging.4325a91a1ac5ad352d98.jpg",
+    "index.html": "/index.html",
+    "main.bd5dde45.css.map": "/static/css/main.bd5dde45.css.map",
+    "main.758b76bf.js.map": "/static/js/main.758b76bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd5dde45.css",
+    "static/js/main.758b76bf.js"
+  ]
+}
