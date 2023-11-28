@@ -1,0 +1,170 @@
+body{
+    overflow-x: hidden;
+}
+#navBar{
+     position: absolute;
+     left: 0;
+     right: 0;
+     top: 0;
+}
+.brandName{
+     color: rgb(0, 0, 0);
+     font-size: 40px;
+}
+.home{
+     background-image: url("C:/Users/Admin/Desktop/gym_app/src/assets/Images/meagan-stone-r951FqxHTao-unsplash.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: top;
+     height: 700px;
+     margin-top: 0px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: black;
+     /* background-attachment: f; */
+}
+.body{
+    background-color: rgb(255, 217, 148);
+    height: 400px;
+}
+.exp{
+    position: absolute;
+    display: none;
+    animation: animateBtn 1s linear 1 forwards;
+}
+.explore{
+    display: block;   
+}
+@keyframes animateBtn {
+    0%{
+        transform: translateX(40px);
+        opacity: 0.5;
+    }
+    100%{
+        transform: translateX(-40px);
+        opacity: 1;
+    }
+}
+[id^="trainer-col"]{
+    position: relative;
+    padding: 0;
+}
+[id^="trainer-col"]:hover{
+    opacity: 0.6;
+}
+.about-trainer{
+    position: absolute;
+    left: 0px;
+    margin: 20px;
+    top: 120px;
+    color: rgb(255, 255, 255);
+    opacity: 1;
+    width: 200px;
+    text-align: center;
+    overflow: hidden;
+
+}
+.about-trainer-2{
+    position: absolute;
+    right: 50px;
+    margin: 20px;
+    top: 200px;
+    color: rgb(255, 255, 255);
+    opacity: 1;
+    width: 200px;
+    text-align: center;
+    overflow: hidden;
+    font-size: 30px;
+}
+.about-trainer-3{
+    position: absolute;
+    left: 0px;
+    margin: 20px;
+    top: 120px;
+    color: rgb(255, 255, 255);
+    /* background-image: (to right,white,black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    opacity: 1;
+    width: 200px;
+    text-align: center;
+    overflow: hidden;
+    font-size: 20px;
+}
+.about-trainer p:first-of-type{
+    font-size: 20px;
+}
+.about-trainer p:nth-child(2){
+    font-size: 13px;
+}
+/* .about-trainer:last-of-type{
+    color: rgb(0, 0, 0);
+} */
+.services{
+    background-image: url("C:/Users/Admin/Desktop/gym_app/src/assets/Images/anastase-maragos-9dzWZQWZMdE-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+#service{
+   margin-top: -150px;
+   background-color: rgb(15, 15, 15);
+   color: gray;
+   padding: 15px;
+}
+.abt h1,.equipments h3{
+     font-weight: lighter;
+}
+#ABT{
+     margin-top: 50px;
+     
+}
+
+@media screen and (max-width: 576px) {
+    .about-trainer,
+    .about-trainer-3{
+        position: absolute;
+        left: 20px;
+        margin: 0px;
+        top: 100px;
+        color: rgb(255, 255, 255);
+        opacity: 1;
+        width: 200px;
+        text-align: center;
+        overflow: hidden;
+    }
+    .about-trainer-2{
+        position: absolute;
+        left: 0px;
+        margin: 20px;
+        top: 200px;
+        color: rgb(255, 255, 255);
+        opacity: 1;
+        width: 200px;
+        text-align: center;
+        overflow: hidden;
+        font-size: 20px;
+    }
+    #service{
+        margin: 30px;
+        width: 400px;
+    }
+    #ABT{
+        font-size: 10px;
+        max-width: 300px;
+        display: flex;
+        margin: auto;
+        margin-top: 80px;
+    }
+    .abt h1{
+        font-size: 15px;
+        text-align: center;
+    }
+}
